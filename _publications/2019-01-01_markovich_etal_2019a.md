@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 # permalink: "https://doi.org/10.1016/j.jhydrol.2019.06.014"
 excerpt: 'Hydrograph separation using Bayesian endmember mixing analysis for an alpine volcanic watershed in Central Chile'
-date: 2019
+date: 2019-01-01
 venue: 'Journal of Hydrology'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://kmarkovich.github.io/files/markovich_etal_2019a.pdf'

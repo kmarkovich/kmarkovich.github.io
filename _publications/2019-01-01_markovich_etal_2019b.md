@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 # permalink: "https://doi.org/10.1029/2019WR025676"
 excerpt: 'Review of literature on mountain-block recharge to provide a current state of understanding and guide future research priorities.'
-date: 2019
+date: 2019-01-01
 venue: 'Water Resources Research'
 # slidesurl: 'http://kmarkovich.github.io/files/markovich_etal_2019b.pdf'
 paperurl: 'http://kmarkovich.github.io/files/markovich_etal_2019b.pdf'

@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 # permalink: "https://doi.org/10.1002/hyp.10851"
 excerpt: 'This study explores the response to warming in alpine hillsopes of varying bedrock permeability using ParFlow-CLM'
-date: 2016
+date: 2016-01-01
 venue: 'Hydrological Processes'
 # slidesurl: 'http://kmarkovich.github.io/files/slides2.pdf'
 paperurl: 'http://kmarkovich.github.io/files/markovich_etal_2016.pdf'

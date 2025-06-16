@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 # permalink: "https://doi.org/10.1029/2020WR027743"
 excerpt: ''
-date: 2021
+date: 2021-01-01
 venue: 'Water Resources Research'
 # slidesurl: 'http://kmarkovich.github.io/files/markovich_etal_2019b.pdf'
 paperurl: 'http://kmarkovich.github.io/files/markovich_etal_2021.pdf'
