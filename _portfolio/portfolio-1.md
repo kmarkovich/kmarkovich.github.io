@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Addressing water allocation in agricultural basins using multi-objective optimization and hydro-economic modeling"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/harney.pdf'>"
 collection: portfolio
 ---
 
