@@ -10,7 +10,7 @@
 main:
 
   - title: "Current Research"
-    url: /current_research/
+    url: /portfolio/
 
   - title: "Publications"
     url: /publications/
