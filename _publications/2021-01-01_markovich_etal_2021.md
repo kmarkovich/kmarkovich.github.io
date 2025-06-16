@@ -13,3 +13,5 @@ citation: 'Markovich, K. H., Condon, L.E., Carroll, K. C., Purtschert,R., & McIn
 ---
 
 Distinguishing and quantifying the surface from subsurface components of mountain-front recharge (MFR) is necessary for water resource planning and management, particularly as climate change may impact these components in distinct ways. This study tests the hypothesis that MFR components can be distinguished in long-screened, basin-fill production wells by (1) groundwater age and (2) the median elevation of recharge.
+
+<br/><img src='/images/markovich_etal_2021.png'>

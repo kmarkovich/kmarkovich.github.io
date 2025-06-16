@@ -13,3 +13,5 @@ citation: ' Markovich, K., H, Manning, A. H., Condon, L. E., & McIntosh, J. C. (
 ---
 
 Mountain-block recharge (MBR) is the subsurface inflow of groundwater to lowland aquifers from adjacent mountains. MBR can be a major component of recharge but remains difficult to characterize and quantify due to limited hydrogeologic, climatic, and other data in the mountain block and at the mountain front. The number of MBR-related studies has increased dramatically in the 15 years since the last review of the topic was conducted by Wilson and Guan (2004), generating important advancements. We review this recent body of literature, summarize current understanding of factors controlling MBR, and provide recommendations for future research priorities.
+
+<br/><img src='/images/markovich_etal_2019b.png'>
