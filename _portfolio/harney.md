@@ -1,6 +1,6 @@
 ---
 title: "Addressing water (over)allocation in agricultural basins using multi-objective optimization and hydro-economic modeling"
-excerpt: "<br/><img src='/images/harney.png' height='50'>"
+excerpt: '<br/><img src="/images/harney.png" width="50%" height="50%">'
 # slidesurl: 'http://kmarkovich.github.io/files/awra_slides.pdf'
 collection: portfolio
 ---
