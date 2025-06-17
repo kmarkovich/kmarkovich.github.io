@@ -1,0 +1,15 @@
+---
+title: "An Introduction to Predictive Modeling Workflows with python, pyEMU, and PEST++"
+collection: teaching
+type: "Conference short course"
+# permalink: /teaching/2014-spring-teaching-1
+venue: "MODFLOW and More 2024"
+date: 2024-01-01
+location: "Princeton, NJ"
+---
+<br/>
+Predictive modeling moves beyond the process of building model input datasets and shifts the focus on the outcomes from the modeling that are of most interest by decision makers and what data are available that can be used to inform these outcomes. In this context, additional analyses using the model are required. Typically these analyses include data assimilation (aka parameter estimation), uncertainty analysis, as well as a number of follow-on analyses such as scenario testing and formal management optimization.  
+
+This course provided an introduction to predictive modeling workflows using PEST++ within the framework of the python programming language, which is used to automate much of the process. We introduce several concepts and theories that are core to predictive modeling analyses and present case studies for discussion. 
+
+Co-taught with Mike Fienen, and Jeremy White
