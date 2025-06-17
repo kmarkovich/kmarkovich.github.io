@@ -9,6 +9,6 @@ In the western US, as in many semi-arid and arid regions of the world, seasonal 
 
 High frequency interferometric synthetic aperture radar (inSAR) presents a unique opportunity to address this data gap by measuring aquifer skeletal response to recharge pulses (i.e., elastic rebound), potentially resolving recharge timing, location, and amount on seasonal timescales. InSAR has already been demonstrated as a source of information that is highly complementary to traditional geodetic measurements (e.g., GPS and extensometer data), but application in aquifer systems to date has mostly focused on subsidence (i.e., inelastic compaction) due to groundwater over-exploitation. I am working wth Eric Lindsay (UNM) on a proof-of-concept for integrating inSAR data with poroelastic modeling to inversely quantify recharge and forecast water availability for the water-stressed Estancia Basin, east of Albuquerque. 
 
-Check out the procesed inSAR timeseries for the Estancia Basin [here](https://subsidence-insar-data.edacnm.org/). 
+Check out the procesed inSAR timeseries for the Estancia Basin [here](https://subsidence-insar-data.edacnm.org/) (website developed by UNM Computer Science student Carly Salazar!)
 
 
