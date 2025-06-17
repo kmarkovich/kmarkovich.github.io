@@ -3,6 +3,7 @@ title: "Climate Change, Water, and Society"
 collection: teaching
 type: "Graduate course"
 # permalink: /teaching/2014-spring-teaching-1
+excerpt: ""
 venue: "University of California, Davis"
 date: 2017-01-01
 # location: "Davis, CA, USA"

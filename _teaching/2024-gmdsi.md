@@ -3,6 +3,7 @@ title: "Applied Decision Support Groundwater Modeling with Python: A Guided Self
 collection: teaching
 type: "Online short course"
 # permalink: /teaching/2014-spring-teaching-1
+excerpt: ""
 # venue: ""
 date: 2024-01-01
 # location: "Davis, CA, USA"

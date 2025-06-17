@@ -3,6 +3,7 @@ title: "Water in the Earth System (ENVS 423L) / Physical Hydrology (EPS 522)"
 collection: teaching
 type: "Undergrad/Graduate course"
 # permalink: /teaching/2014-spring-teaching-1
+excerpt: ""
 venue: "University of New Mexico"
 date: 2025-01-01
 # location: "Princeton, NJ"
