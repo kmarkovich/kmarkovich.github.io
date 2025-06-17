@@ -1,15 +1,13 @@
 ---
-title: "An Introduction to Predictive Modeling Workflows with python, pyEMU, and PEST++"
+title: "Water in the Earth System (ENVS 423L) / Physical Hydrology (EPS 522)"
 collection: teaching
-type: "Conference short course"
+type: "Undergrad/Graduate course"
 # permalink: /teaching/2014-spring-teaching-1
-venue: "MODFLOW and More 2024"
-date: 2024-01-01
-location: "Princeton, NJ"
+venue: "University of New Mexico"
+date: 2025-01-01
+# location: "Princeton, NJ"
 ---
 <br/>
-Predictive modeling moves beyond the process of building model input datasets and shifts the focus on the outcomes from the modeling that are of most interest by decision makers and what data are available that can be used to inform these outcomes. In this context, additional analyses using the model are required. Typically these analyses include data assimilation (aka parameter estimation), uncertainty analysis, as well as a number of follow-on analyses such as scenario testing and formal management optimization.  
+The objectives of Physical Hydrology are to explain, diagnose, and predict the physical processes that govern: 1) the spatial and temporal characteristics of water in its various storage reservoirs (terrestrial, atmospheric, oceanic) and 2) the corresponding fluxes of water between these reservoirs.  To be able to read and interpret the scientific literature on physical hydrology and to be able to work with modern hydrologic datasets.  Topics will include the hydrologic cycle, atmospheric thermodynamics, radiation processes, atmospheric circulation, precipitation and snow processes, unsaturated flow, evapotranspiration, groundwater flow, runoff and streamflow, and watershed modeling.
 
-This course provided an introduction to predictive modeling workflows using PEST++ within the framework of the python programming language, which is used to automate much of the process. We introduce several concepts and theories that are core to predictive modeling analyses and present case studies for discussion. 
-
-Co-taught with Mike Fienen, and Jeremy White
+This course will be taught in Fall 2025. The course repo, which will be updated wiht lectures, homeworks, and solutions as they are developed, can be found [here](https://github.com/kmarkovich/PhysHydro_Fall25).
