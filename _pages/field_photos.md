@@ -5,61 +5,28 @@ author_profile: true
 redirect_from: 
   - /field_photos/
   - /field_photos.html
-categories:
-  - Post Formats
-tags:
-  - gallery
-  - Post Formats
-  - tiled
-cambodia:
-  - url: /images/unsplash-gallery-image-1.jpg
-    image_path: /images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /images/unsplash-gallery-image-2.jpg
-    image_path: /images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /images/unsplash-gallery-image-3.jpg
-    image_path: /images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-  - url: /images/unsplash-gallery-image-1.jpg
-    image_path: /images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
-  - url: /images/unsplash-gallery-image-2.jpg
-    image_path: /images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 5"
-    title: "Image 5 title caption"
-  - url: /images/unsplash-gallery-image-3.jpg
-    image_path: /images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 6"
-    title: "Image 6 title caption"
-  - url: /images/unsplash-gallery-image-1.jpg
-    image_path: /images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 7"
-    title: "Image 7 title caption"
-  - url: /images/unsplash-gallery-image-2.jpg
-    image_path: /images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 8"
-    title: "Image 8 title caption"
-  - url: /images/unsplash-gallery-image-3.jpg
-    image_path: /images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 9"
-    title: "Image 9 title caption"
-  - url: /images/unsplash-gallery-image-1.jpg
-    image_path: /images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 10"
-    title: "Image 10 title caption"
-  - url: /images/unsplash-gallery-image-2.jpg
-    image_path: /images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 11"
-    title: "Image 11 title caption"
-  - url: /images/unsplash-gallery-image-3.jpg
-    image_path: /images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 12"
-    title: "Image 12 title caption"
+# categories:
+#   - Post Formats
+# tags:
+#   - gallery
+#   - Post Formats
+#   - tiled
+sweden:
+  - url: /images/sweden/IMG_0147.jpg
+    image_path: /images/sweden/IMG_0147.jpg
+    # alt: "placeholder image 1"
+    # title: "Image 1 title caption"
+  - url: /images/sweden/IMG_0143.jpg
+    image_path: /images/sweden/IMG_0143.jpg
+  - url: /images/sweden/IMG_0144.jpg
+    image_path: /images/sweden/IMG_0148.jpg
+  - url: /images/sweden/IMG_0148.jpg
+    image_path: /images/sweden/IMG_0148.jpg
+  - url: /images/sweden/IMG_0149.jpg
+    image_path: /images/sweden/IMG_0149.jpg
+  - url: /images/sweden/IMG_2102.jpg
+    image_path: /images/sweden/IMG_2102.jpg
+
 chile_1:
   - url: https://flic.kr/p/8a6Ven
     image_path: https://farm2.staticflickr.com/1272/4697500467_8294dac099_q.jpg
@@ -77,9 +44,13 @@ texas:
     alt: "placeholder image 4"
 ---
 
-West Texas, 2011
+Sweden, 2023
+
+{% include gallery id="sweden" layout="half" caption="Site visit for a mine closure project" %}
+
+<!-- West Texas, 2011
 
 {% include gallery id="texas" layout="half" caption="Assisting Wendy Robertson with her dissertation fieldwork" %}
 
-Chile, 2011
+Chile, 2011 -->
 
