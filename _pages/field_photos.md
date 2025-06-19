@@ -12,21 +12,20 @@ redirect_from:
 #   - Post Formats
 #   - tiled
 sweden:
-  - url: /images/sweden/IMG_0147.jpg
+  # - url: /images/sweden/IMG_0147.jpg
     image_path: /images/sweden/IMG_0147.jpg
     # alt: "placeholder image 1"
     # title: "Image 1 title caption"
-  - url: /images/sweden/IMG_0143.jpg
+  # - url: /images/sweden/IMG_0143.jpg
     image_path: /images/sweden/IMG_0143.jpg
-  - url: /images/sweden/IMG_0144.jpg
+  # - url: /images/sweden/IMG_0144.jpg
     image_path: /images/sweden/IMG_0148.jpg
-  - url: /images/sweden/IMG_0148.jpg
+  # - url: /images/sweden/IMG_0148.jpg
     image_path: /images/sweden/IMG_0148.jpg
-  - url: /images/sweden/IMG_0149.jpg
+  # - url: /images/sweden/IMG_0149.jpg
     image_path: /images/sweden/IMG_0149.jpg
-  - url: /images/sweden/IMG_2102.jpg
+  # - url: /images/sweden/IMG_2102.jpg
     image_path: /images/sweden/IMG_2102.jpg
-
 chile_1:
   - url: https://flic.kr/p/8a6Ven
     image_path: https://farm2.staticflickr.com/1272/4697500467_8294dac099_q.jpg
