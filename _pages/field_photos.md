@@ -45,7 +45,7 @@ texas:
 
 Sweden, 2023
 
-{% include gallery id="sweden" layout="half" caption="Site visit for a mine closure project" %}
+{% include sweden layout="half" caption="Site visit for a mine closure project" %}
 
 <!-- West Texas, 2011
 
