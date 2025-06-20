@@ -1,7 +1,7 @@
 ---
 title: "Field Photos"
-permalink: /
-# author_profile: true
+permalink: /field_photos
+author_profile: true
 # redirect_from: 
 #   - /field_photos/
 #   - /field_photos.html
