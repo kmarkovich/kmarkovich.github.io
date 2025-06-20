@@ -2,30 +2,22 @@
 title: "Field Photos"
 permalink: /
 author_profile: true
-redirect_from: 
-  - /field_photos/
-  - /field_photos.html
-# categories:
-#   - Post Formats
-# tags:
-#   - gallery
-#   - Post Formats
-#   - tiled
+# redirect_from: 
+#   - /field_photos/
+#   - /field_photos.html
+
 sweden:
-  # - url: /images/sweden/IMG_0147.png
     - image_path: /images/sweden/IMG_0147.png
-    # alt: "placeholder image 1"
-    # title: "Image 1 title caption"
-  # - url: /images/sweden/IMG_0143.png
     - image_path: /images/sweden/IMG_0143.png
-  # - url: /images/sweden/IMG_0144.png
     - image_path: /images/sweden/IMG_0148.png
-  # - url: /images/sweden/IMG_0148.png
-    - image_path: /images/sweden/IMG_0148.png
-  # - url: /images/sweden/IMG_0149.png
+    - image_path: /images/sweden/IMG_0144.png
     - image_path: /images/sweden/IMG_0149.png
-  # - url: /images/sweden/IMG_2102.png
     - image_path: /images/sweden/IMG_2102.png
+arizona:
+    - image_path: /images/arizona/IMG_0183.png
+    - image_path: /images/arizona/IMG_0192.png
+    - image_path: /images/arizona/IMG_0654.png
+    - image_path: /images/arizona/IMG_0982.png
 # chile_1:
 #   - url: https://flic.kr/p/8a6Ven
 #     image_path: https://farm2.staticflickr.com/1272/4697500467_8294dac099_q.png
@@ -46,6 +38,10 @@ sweden:
 Sweden, 2023
 
 {% include gallery id="sweden" class="full" caption="Site visit for a mine closure project" %}
+
+Arizona, 2018
+
+{% include gallery id="arizona" class="full" caption="Field campaign for postdoctoral fellowship" %}
 
 <!-- West Texas, 2011
 
