@@ -12,40 +12,40 @@ redirect_from:
 #   - Post Formats
 #   - tiled
 sweden:
-  # - url: /images/sweden/IMG_0147.jpg
-    - image_path: /images/sweden/IMG_0147.jpg
+  # - url: /images/sweden/IMG_0147.png
+    - image_path: /images/sweden/IMG_0147.png
     # alt: "placeholder image 1"
     # title: "Image 1 title caption"
-  # - url: /images/sweden/IMG_0143.jpg
-    - image_path: /images/sweden/IMG_0143.jpg
-  # - url: /images/sweden/IMG_0144.jpg
-    - image_path: /images/sweden/IMG_0148.jpg
-  # - url: /images/sweden/IMG_0148.jpg
-    - image_path: /images/sweden/IMG_0148.jpg
-  # - url: /images/sweden/IMG_0149.jpg
-    - image_path: /images/sweden/IMG_0149.jpg
-  # - url: /images/sweden/IMG_2102.jpg
-    - image_path: /images/sweden/IMG_2102.jpg
+  # - url: /images/sweden/IMG_0143.png
+    - image_path: /images/sweden/IMG_0143.png
+  # - url: /images/sweden/IMG_0144.png
+    - image_path: /images/sweden/IMG_0148.png
+  # - url: /images/sweden/IMG_0148.png
+    - image_path: /images/sweden/IMG_0148.png
+  # - url: /images/sweden/IMG_0149.png
+    - image_path: /images/sweden/IMG_0149.png
+  # - url: /images/sweden/IMG_2102.png
+    - image_path: /images/sweden/IMG_2102.png
 # chile_1:
 #   - url: https://flic.kr/p/8a6Ven
-#     image_path: https://farm2.staticflickr.com/1272/4697500467_8294dac099_q.jpg
+#     image_path: https://farm2.staticflickr.com/1272/4697500467_8294dac099_q.png
 #     alt: "Black and grays with a hint of green"
 #   - url: https://flic.kr/p/8a738X
-#     image_path: https://farm5.staticflickr.com/4029/4697523701_249e93ba23_q.jpg
+#     image_path: https://farm5.staticflickr.com/4029/4697523701_249e93ba23_q.png
 #     alt: "Made for open text placement"
 #   - url: https://flic.kr/p/8a6VXP
-#     image_path: https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.jpg
+#     image_path: https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.png
 #     alt: "Fog in the trees"
 # texas:
-#   - image_path: /images/unsplash-gallery-image-2-th.jpg
+#   - image_path: /images/unsplash-gallery-image-2-th.png
 #     alt: "placeholder image 2"
-#   - image_path: /images/unsplash-gallery-image-4-th.jpg
+#   - image_path: /images/unsplash-gallery-image-4-th.png
 #     alt: "placeholder image 4"
 ---
 
 Sweden, 2023
 
-{% include gallery id="sweden" caption="Site visit for a mine closure project" %}
+{% include gallery id="sweden" class="full" caption="Site visit for a mine closure project" %}
 
 <!-- West Texas, 2011
 
