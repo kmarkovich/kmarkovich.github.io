@@ -1,7 +1,7 @@
 ---
 title: "Field Photos"
 permalink: /
-author_profile: true
+# author_profile: true
 # redirect_from: 
 #   - /field_photos/
 #   - /field_photos.html
@@ -41,7 +41,7 @@ Sweden, 2023
 
 Arizona, 2018
 
-{% include gallery id="arizona" class="full" caption="Field campaign for postdoctoral fellowship" %}
+{% include gallery id="arizona" layout="half" class="full" caption="Field campaign for postdoctoral research" %}
 
 <!-- West Texas, 2011
 
