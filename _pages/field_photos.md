@@ -61,11 +61,11 @@ Chile, 2016-2017
 
 Cambodia, 2012-2013
 
-{% include gallery id="cambodia" class="full" caption="Field campaign for doctoral research" %}
+{% include gallery id="cambodia" layout="half" class="full" caption="Field campaign for Fulbright research" %}
 
 Chile, 2011
 
-{% include gallery id="chile_1" class="full" caption="Field campaign for doctoral research" %}
+{% include gallery id="chile_1" layout="half" class="full" caption="Field campaign for undergrad research" %}
 
 <!-- West Texas, 2011
 
