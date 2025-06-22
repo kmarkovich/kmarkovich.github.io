@@ -18,21 +18,33 @@ arizona:
     - image_path: /images/arizona/IMG_0192.png
     - image_path: /images/arizona/IMG_0654.png
     - image_path: /images/arizona/IMG_0982.png
-# chile_1:
-#   - url: https://flic.kr/p/8a6Ven
-#     image_path: https://farm2.staticflickr.com/1272/4697500467_8294dac099_q.png
-#     alt: "Black and grays with a hint of green"
-#   - url: https://flic.kr/p/8a738X
-#     image_path: https://farm5.staticflickr.com/4029/4697523701_249e93ba23_q.png
-#     alt: "Made for open text placement"
-#   - url: https://flic.kr/p/8a6VXP
-#     image_path: https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.png
-#     alt: "Fog in the trees"
-# texas:
-#   - image_path: /images/unsplash-gallery-image-2-th.png
-#     alt: "placeholder image 2"
-#   - image_path: /images/unsplash-gallery-image-4-th.png
-#     alt: "placeholder image 4"
+chile_2:
+    - image_path: /images/chile_2/IMG_2561.png
+    - image_path: /images/chile_2/IMG_1369.png
+    - image_path: /images/chile_2/IMG_1603.png
+    - image_path: /images/chile_2/IMG_1389.png
+    - image_path: /images/chile_2/IMG_1386.png
+    - image_path: /images/chile_2/IMG_1608.png
+    - image_path: /images/chile_2/IMG_1606.png
+    - image_path: /images/chile_2/IMG_1399.png
+chile_1:
+    - image_path: /images/chile_1/012.png
+    - image_path: /images/chile_1/073.png
+    - image_path: /images/chile_1/IMG_5691.png
+    - image_path: /images/chile_1/029.png
+    - image_path: /images/chile_1/IMG_5638.png
+    - image_path: /images/chile_1/023.png
+    - image_path: /images/chile_1/033.png
+    - image_path: /images/chile_1/IMG_5704.png
+cambodia:
+    - image_path: /images/cambodia/P1010020.png
+    - image_path: /images/cambodia/P1010006.png
+    - image_path: /images/cambodia/P1010022.png
+    - image_path: /images/cambodia/P1010061.png
+    - image_path: /images/cambodia/GOPR1048.png
+    - image_path: /images/cambodia/P1010058.png
+
+
 ---
 
 Sweden, 2023
@@ -42,6 +54,18 @@ Sweden, 2023
 Arizona, 2018
 
 {% include gallery id="arizona" layout="half" class="full" caption="Field campaign for postdoctoral research" %}
+
+Chile, 2016-2017
+
+{% include gallery id="chile_2" class="full" caption="Field campaign for doctoral research" %}
+
+Cambodia, 2012-2013
+
+{% include gallery id="cambodia" class="full" caption="Field campaign for doctoral research" %}
+
+Chile, 2011
+
+{% include gallery id="chile_1" class="full" caption="Field campaign for doctoral research" %}
 
 <!-- West Texas, 2011
 
