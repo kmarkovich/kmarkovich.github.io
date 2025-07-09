@@ -13,4 +13,4 @@ I received my Ph.D. in Hydrologic Sciences from the [University of California, D
 
 When I'm not working on groundwater decision support modeling analyses or debugging issues in my franken-code, you can find me spending time with my wife and 3-year old daughter, riding/working on bikes, and climbing fake rocks. 
 
-<img src="images/IMG_2248.JPG">
+<img src="images/IMG_2248.JPG" width="400">
