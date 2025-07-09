@@ -7,10 +7,8 @@ redirect_from:
   - /field_photos.html
 
 sweden:
-    - image_path: /images/sweden/IMG_0147.png
-    - image_path: /images/sweden/IMG_0143.png
-    - image_path: /images/sweden/IMG_0148.png
     - image_path: /images/sweden/IMG_0144.png
+    - image_path: /images/sweden/IMG_0143.png
     - image_path: /images/sweden/IMG_0149.png
     - image_path: /images/sweden/IMG_2102.png
 arizona:
@@ -24,9 +22,14 @@ chile_2:
     - image_path: /images/chile_2/IMG_1603.png
     - image_path: /images/chile_2/IMG_1389.png
     - image_path: /images/chile_2/IMG_1386.png
-    - image_path: /images/chile_2/IMG_1608.png
-    - image_path: /images/chile_2/IMG_1606.png
+    - image_path: /images/chile_2/IMG_0416.png
+    - image_path: /images/chile_2/IMG_1960.png
     - image_path: /images/chile_2/IMG_1399.png
+    - image_path: /images/chile_2/IMG_2188.png
+    - image_path: /images/chile_2/IMG_2217.png
+    - image_path: /images/chile_2/IMG_2252.png
+    - image_path: /images/chile_2/IMG_2261.png
+    - image_path: /images/chile_2/IMG_2283.png
 chile_1:
     - image_path: /images/chile_1/012.png
     - image_path: /images/chile_1/073.png
