@@ -19,7 +19,7 @@ arizona:
 chile_2:
     - image_path: /images/chile_2/IMG_2561.png
     - image_path: /images/chile_2/IMG_1369.png
-    - image_path: /images/chile_2/IMG_1603.png
+    - image_path: /images/chile_2/IMG_2261.JPG
     - image_path: /images/chile_2/IMG_1389.png
     - image_path: /images/chile_2/IMG_1386.png
     - image_path: /images/chile_2/IMG_2217.JPG
@@ -28,7 +28,7 @@ chile_2:
     # - image_path: /images/chile_2/IMG_1399.png
     - image_path: /images/chile_2/IMG_2188.JPG
     - image_path: /images/chile_2/IMG_2252.JPG
-    - image_path: /images/chile_2/IMG_2261.JPG
+    # - image_path: /images/chile_2/IMG_2261.JPG
     - image_path: /images/chile_2/IMG_2291.JPG
 chile_1:
     - image_path: /images/chile_1/012.png
