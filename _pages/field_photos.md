@@ -22,14 +22,14 @@ chile_2:
     - image_path: /images/chile_2/IMG_1603.png
     - image_path: /images/chile_2/IMG_1389.png
     - image_path: /images/chile_2/IMG_1386.png
-    - image_path: /images/chile_2/IMG_0416.png
-    - image_path: /images/chile_2/IMG_1960.png
+    - image_path: /images/chile_2/IMG_0416.jpg
+    - image_path: /images/chile_2/IMG_1960.jpg
     - image_path: /images/chile_2/IMG_1399.png
-    - image_path: /images/chile_2/IMG_2188.png
-    - image_path: /images/chile_2/IMG_2217.png
-    - image_path: /images/chile_2/IMG_2252.png
-    - image_path: /images/chile_2/IMG_2261.png
-    - image_path: /images/chile_2/IMG_2283.png
+    - image_path: /images/chile_2/IMG_2188.jpg
+    - image_path: /images/chile_2/IMG_2217.jpg
+    - image_path: /images/chile_2/IMG_2252.jpg
+    - image_path: /images/chile_2/IMG_2261.jpg
+    - image_path: /images/chile_2/IMG_2283.jpg
 chile_1:
     - image_path: /images/chile_1/012.png
     - image_path: /images/chile_1/073.png
