@@ -7,29 +7,29 @@ redirect_from:
   - /field_photos.html
 
 sweden:
-    - image_path: /images/sweden/IMG_0144.png
+    # - image_path: /images/sweden/IMG_0144.png
     - image_path: /images/sweden/IMG_0143.png
     - image_path: /images/sweden/IMG_0149.png
     - image_path: /images/sweden/IMG_2102.png
 arizona:
     - image_path: /images/arizona/IMG_0183.png
-    - image_path: /images/arizona/IMG_0192.png
-    - image_path: /images/arizona/IMG_0654.png
     - image_path: /images/arizona/IMG_0982.png
+    - image_path: /images/arizona/IMG_0192.png
+    # - image_path: /images/arizona/IMG_0654.png
 chile_2:
     - image_path: /images/chile_2/IMG_2561.png
     - image_path: /images/chile_2/IMG_1369.png
     - image_path: /images/chile_2/IMG_1603.png
     - image_path: /images/chile_2/IMG_1389.png
     - image_path: /images/chile_2/IMG_1386.png
+    - image_path: /images/chile_2/IMG_2217.JPG
     - image_path: /images/chile_2/IMG_0416.jpg
     - image_path: /images/chile_2/IMG_1960.JPG
-    - image_path: /images/chile_2/IMG_1399.png
+    # - image_path: /images/chile_2/IMG_1399.png
     - image_path: /images/chile_2/IMG_2188.JPG
-    - image_path: /images/chile_2/IMG_2217.JPG
     - image_path: /images/chile_2/IMG_2252.JPG
     - image_path: /images/chile_2/IMG_2261.JPG
-    - image_path: /images/chile_2/IMG_2283.JPG
+    - image_path: /images/chile_2/IMG_2291.JPG
 chile_1:
     - image_path: /images/chile_1/012.png
     - image_path: /images/chile_1/073.png
@@ -52,11 +52,11 @@ cambodia:
 
 Sweden, 2023
 
-{% include gallery id="sweden" layout="half" class="full" caption="Site visit for a mine closure project" %}
+{% include gallery id="sweden" class="full" caption="Site visit for a mine closure project" %}
 
 Arizona, 2018
 
-{% include gallery id="arizona" layout="half" class="full" caption="Field campaign for postdoctoral research" %}
+{% include gallery id="arizona" class="full" caption="Field campaign for postdoctoral research" %}
 
 Chile, 2016-2017
 
