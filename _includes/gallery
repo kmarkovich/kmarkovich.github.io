@@ -16,6 +16,29 @@
   {% endif %}
 {% endif %}
 
+<style>
+  figure.half,
+  figure.third {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px; /* space between images */
+    margin: 0;  /* optional reset */
+    padding: 0; /* optional reset */
+  }
+  figure.half img {
+    flex: 0 0 50%;  /* two images per row */
+  }
+  figure.third img {
+    flex: 0 0 33.333%; /* three images per row */
+  }
+  figure.half a,
+  figure.half img,
+  figure.third a,
+  figure.third img {
+    display: block;
+  }
+</style>
+
 <figure class="{{ gallery_layout }} {{ include.class }}">
   {% for img in gallery %}
     {% assign img_height = include.height | default: img.height %}
