@@ -8,8 +8,8 @@ redirect_from:
 
 sweden:
     # - image_path: /images/sweden/IMG_0144.png
-    - image_path: /images/sweden/IMG_0143_new.png
-    - image_path: /images/sweden/IMG_0149_new.png
+    - image_path: /images/sweden/IMG_0143.png
+    - image_path: /images/sweden/IMG_0149.png
     - image_path: /images/sweden/IMG_2102.png
 arizona:
     - image_path: /images/arizona/IMG_0183.png
@@ -52,7 +52,7 @@ cambodia:
 
 Sweden, 2023
 
-{% include gallery id="sweden" class="full" caption="Site visit for a mine closure project" %}
+{% include gallery id="sweden" class="full" caption="Site visit for a mine closure project" height="200" %}
 
 Arizona, 2018
 

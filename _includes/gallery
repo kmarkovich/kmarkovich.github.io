@@ -18,24 +18,21 @@
 
 <figure class="{{ gallery_layout }} {{ include.class }}">
   {% for img in gallery %}
+    {% assign img_height = include.height | default: img.height %}
     {% if img.url %}
       <a href="{{ img.url | relative_url }}"
         {% if img.title %}title="{{ img.title }}"{% endif %}>
         <img src="{{ img.image_path | relative_url }}"
              alt="{% if img.alt %}{{ img.alt }}{% endif %}"
-             {% if include.height %}
-               height="{{ include.height }}"
-             {% elsif img.height %}
-               height="{{ img.height }}"
+             {% if img_height %}
+               style="height: {{ img_height }}px; width: 100%; object-fit: cover;"
              {% endif %}>
       </a>
     {% else %}
       <img src="{{ img.image_path | relative_url }}"
            alt="{% if img.alt %}{{ img.alt }}{% endif %}"
-           {% if include.height %}
-             height="{{ include.height }}"
-           {% elsif img.height %}
-             height="{{ img.height }}"
+           {% if img_height %}
+             style="height: {{ img_height }}px; width: 100%; object-fit: cover;"
            {% endif %}>
     {% endif %}
   {% endfor %}
