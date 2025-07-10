@@ -28,7 +28,7 @@ chile_2:
     # - image_path: /images/chile_2/IMG_1399.png
     - image_path: /images/chile_2/IMG_2188.JPG
     - image_path: /images/chile_2/IMG_2261.JPG
-    - image_path: /images/chile_2/IMG_1606.JPG
+    - image_path: /images/chile_2/IMG_1606.png
     - image_path: /images/chile_2/IMG_2291.JPG
 chile_1:
     - image_path: /images/chile_1/012.png
