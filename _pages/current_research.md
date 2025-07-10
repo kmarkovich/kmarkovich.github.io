@@ -1,12 +1,5 @@
 ---
-title: "Current Research"
-# permalink: /field_photos
-author_profile: true
-redirect_from: 
-  - /current_research/
-  - /current_research.html
- ---
-
+## Current Research
 
 ## Integrating inSAR-derived land surface displacement with groundwater flow modeling to quantify recharge and forecast groundwater availability
 
