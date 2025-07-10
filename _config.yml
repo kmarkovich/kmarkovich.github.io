@@ -261,13 +261,13 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: research
-    values:
-      layout: single
-      author_profile: true
+  # # _portfolio
+  # - scope:
+  #     path: ""
+  #     type: research
+  #   values:
+  #     layout: single
+  #     author_profile: true
   # _talks
   - scope:
       path: ""
