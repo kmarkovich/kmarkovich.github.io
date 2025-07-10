@@ -52,7 +52,7 @@ cambodia:
 
 Sweden, 2023
 
-{% include gallery id="sweden" class="full" caption="Site visit for a mine closure project" %}
+{% include gallery id="sweden" class="full" height="200" caption="Site visit for a mine closure project" %}
 
 Arizona, 2018
 
