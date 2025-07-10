@@ -10,7 +10,7 @@
 main:
 
   - title: "Current Research"
-    url: /current_research/
+    url: /_pages/current_research/
 
   - title: "Publications"
     url: /publications/
