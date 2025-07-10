@@ -1,14 +1,8 @@
----
-title: "Current Research"
-# permalink: /field_photos
-author_profile: true
-redirect_from: 
-  - /current_research/
-  - /current_research.html
+# Current Research
 
 ## Integrating inSAR-derived land surface displacement with groundwater flow modeling to quantify recharge and forecast groundwater availability
 
-<img src="/images/insar.png" width="50%" height="50%">
+<img src="/images/insar.png">
 
 In the western US, as in many semi-arid and arid regions of the world, seasonal or persistent water scarcity is a major challenge that is becoming exacerbated by climate change. Operating in a deficit is quickly becoming the rule rather than the exception for water managers, which requires flexible and adaptive approaches, reliable short-term prediction, and near-real time information, much like in weather forecasting. While this operational approach is already the standard for managing surface water supplies (e.g., monitoring snowpack to forecast inflows to reservoirs), forecasting groundwater availability is limited by spatially and temporally sparse data. In particular, recharge is one of the most unconstrained and difficult to measure quantities in groundwater systems. This is especially the case for aquifer systems in the western US, where precipitation varies widely year-to-year, diffuse recharge is negligible, and preferential recharge is highly spatially and temporally variable.
 
@@ -19,7 +13,7 @@ Check out the procesed inSAR timeseries for the Estancia Basin [here](https://su
 
 ## Addressing water (over)allocation in agricultural basins using multi-objective optimization and hydro-economic modeling
 
-<img src="/images/harney.png" width="30%" height="30%">
+<img src="/images/harney.png">
 
 Groundwater overuse and depletion for agricultural irrigation is a global issue that can have profound impacts on ecosystems and livelihoods. Effectively regulating agricultural pumping, however, is a complex challenge that requires stakeholder participation and an understanding of the tradeoffs between competing demands. In collaboration with Mike Fienen (USGS), I am working to develop a proof-of-concept application that combines hydro-economic modeling, scenario-based modeling, and multi-objective optimization to implement pumping curtailment in an over-allocated basin in the Western United States. 
 
