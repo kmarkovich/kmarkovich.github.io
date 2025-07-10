@@ -9,9 +9,9 @@ redirect_from:
 sweden:
     # - image_path: /images/sweden/IMG_0144.png
     - image_path: /images/sweden/IMG_0143.png
-      height: 200
+      height: 300
     - image_path: /images/sweden/IMG_0149.png
-      height: 200
+      height: 250
     - image_path: /images/sweden/IMG_2102.png
       height: 200
 arizona:
