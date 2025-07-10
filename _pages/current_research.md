@@ -1,5 +1,12 @@
-#
-# Current Research
+---
+title: "Current Research"
+# permalink: /field_photos
+author_profile: true
+redirect_from: 
+  - /current_research/
+  - /current_research.html
+ ---
+
 
 ## Integrating inSAR-derived land surface displacement with groundwater flow modeling to quantify recharge and forecast groundwater availability
 
@@ -15,7 +22,7 @@ Check out the procesed inSAR timeseries for the Estancia Basin [here](https://su
 
 ## Addressing water (over)allocation in agricultural basins using multi-objective optimization and hydro-economic modeling
 
-<img src="/images/harney.png" width="300">
+<img src="/images/harney.png" width="500">
 
 Groundwater overuse and depletion for agricultural irrigation is a global issue that can have profound impacts on ecosystems and livelihoods. Effectively regulating agricultural pumping, however, is a complex challenge that requires stakeholder participation and an understanding of the tradeoffs between competing demands. In collaboration with Mike Fienen (USGS), I am working to develop a proof-of-concept application that combines hydro-economic modeling, scenario-based modeling, and multi-objective optimization to implement pumping curtailment in an over-allocated basin in the Western United States. 
 
