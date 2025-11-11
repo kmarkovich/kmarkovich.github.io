@@ -7,7 +7,6 @@ author_profile: true
 
 <img src="/images/rio.png">
 
-
 # Funded MSc/PhD starting in Fall 2026 
 
 The Markovich Lab is seeking prospective MSc or PhD students interested in advancing decision support modeling for sustainable management of groundwater resources. Positions will start in Fall 2026 in the Department of Earth and Planetary Sciences at the University of New Mexico in Albuquerque, NM.
