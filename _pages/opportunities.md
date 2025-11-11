@@ -5,8 +5,7 @@ permalink: /opportunities/
 author_profile: true
 ---
 
-
-<img src="images/rio.png" width="400">
+<img src="images/rio.png">
 
 # Funded MSc/PhD starting in Fall 2026 
 
