@@ -8,7 +8,7 @@ redirect_from:
 ---
 <img src="images/IMG_2248.JPG" width="400">
 
-I am a Quantitative Hydrogeologist working with at [INTERA Incorporated](https://www.intera.com/). My research interests include characterizing groundwater flowpaths and responses to climate change and advancing groundwater decision support modeling. 
+I am a Quantitative Hydrogeologist working with at [INTERA Incorporated](https://www.intera.com/). My research interests include characterizing groundwater flowpaths and responses to climate change and advancing groundwater decision support modeling. I will be starting as an assistant professor with the UNM Earth and Planetary Sciences Department in January of 2026. I am looking for an MSc or PhD student to start in Fall 2026, please see my vacancies page for more information. 
 
 I received my Ph.D. in Hydrologic Sciences from the [University of California, Davis](https://www.hsgg.ucdavis.edu/) and my B.Sc. in Geology with a Focus on Hydrogeology from the [University of Texas at Austin](https://www.jsg.utexas.edu/). Before joining INTERA, I was an NSF Postdoctoral Fellow at the [University of Arizona Department of Hydrology and Atmospheric Sciences](https://has.arizona.edu/).
 

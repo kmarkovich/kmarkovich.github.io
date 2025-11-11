@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Katie Markovich"
 title_separator          : "-"
 name                     : &name "Katie Markovich"
-description              : &description "Groundwater Modeler, INTERA Incorporated"
+description              : &description "Assistant Professor (starting Jan 2026)"
 url                      : https://kmarkovich.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kmarkovich/kmarkovich.github.io"
@@ -27,9 +27,9 @@ author:
   pronouns         : "she/her"  
   bio              : "Quantitative Hydrogeologst"
   location         : "Albuquerque, NM, USA"
-  employer         : "INTERA Incorporated"
+  employer         : "UNM Earth & Planetary Sciences Department"
   uri              : # URL
-  email            : "khmarkovich@gmail.com" 
+  email            : "kmarkovich@unm.com" 
 
   # Academic websites
   academia         : # URL
@@ -231,13 +231,13 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # # _posts
-  # - scope:
-  #     path: ""
-  #     type: posts
-  #   values:
-  #     layout: single
-  #     author_profile: true
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
   # _pages
   - scope:
       path: ""
