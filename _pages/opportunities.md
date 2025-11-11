@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<img src="images/rio.png" width="1000">
+<img src="images/rio.png" width="400">
 
 # Funded MSc/PhD starting in Fall 2026 
 
@@ -23,6 +23,9 @@ Guaranteed funding is available for 2 (MSc) or 4 years (PhD). Albuquerque is an 
 For more information, please see:
 
 [UNM EPS website](https://eps.unm.edu/)
+
 [Admissions requirements](https://eps.unm.edu/graduate/requirements.html)
+
 [The application process](https://eps.unm.edu/graduate/how-to-apply.html)
+
 [Markovich Lab website](https://kmarkovich.github.io/)
