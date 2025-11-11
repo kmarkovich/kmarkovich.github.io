@@ -5,7 +5,8 @@ permalink: /opportunities/
 author_profile: true
 ---
 
-<img src="images/rio.png">
+<img src="/images/rio.png">
+
 
 # Funded MSc/PhD starting in Fall 2026 
 
@@ -15,9 +16,9 @@ Successful candidates will be able to choose from projects ranging from developi
 
 **Preferred Qualifications:** The successful candidates will have a bachelor's degree in geology, engineering, or a closely related field and experience or a strong willingness to learn the following skills: groundwater modeling decision support modeling (MODFLOW/PEST++), programming in python, high performance computing, and scientific writing. In addition, they will have strong communication and organization skills, scientific curiosity, and the ability to work independently and as part of a team.
 
-Guaranteed funding is available for 2 (MSc) or 4 years (PhD). Albuquerque is an affordable, diverse, and culturally vibrant city with excellent outdoor recreation access.
+Guaranteed funding is available for two (MSc) or four years (PhD). Albuquerque is an affordable, diverse, and culturally vibrant city with excellent outdoor recreation access.
 
-**To apply:** Interested students are encouraged to email Dr. Katie Markovich with a short description of yourself and your interests, a resume or CV, and transcripts (unofficial is fine). Once compatibility is established through correspondence with Dr. Markovich, applications to the UNM EPS program are due January 5, 2026.
+**To apply:** Interested students are encouraged to email Dr. Katie Markovich with a short description of yourself and your interests, a resume or CV (with contact info for two references), and transcripts (unofficial is fine). Once compatibility is established through correspondence with Dr. Markovich, applications to the UNM EPS program are due January 5, 2026.
 
 For more information, please see:
 
