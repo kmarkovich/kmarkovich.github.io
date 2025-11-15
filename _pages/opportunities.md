@@ -13,7 +13,7 @@ The Markovich Lab is seeking prospective MSc or PhD students interested in advan
 
 Successful candidates will be able to choose from projects ranging from developing/advancing inverse modeling techniques for assimilation of novel data streams for water supply forecasting to developing stakeholder-driven modeling approaches for complex, transdisciplinary problems such as water allocation optimization and ecosystem restoration in dryland basins. 
 
-**Preferred Qualifications:** The successful candidates will have a bachelor's degree in geology, engineering, or a closely related field and experience or a strong willingness to learn the following skills: groundwater modeling decision support modeling (MODFLOW/PEST++), programming in python, high performance computing, and scientific writing. In addition, they will have strong communication and organization skills, scientific curiosity, and the ability to work independently and as part of a team.
+**Preferred Qualifications:** The successful candidates will have a bachelor's degree in geology, engineering, or a closely related field and experience or a strong willingness to learn the following skills: groundwater decision support modeling (MODFLOW/PEST++), programming in python, high performance computing, and scientific writing. In addition, they will have strong communication and organization skills, scientific curiosity, and the ability to work independently and as part of a team.
 
 Guaranteed funding is available for two (MSc) or four years (PhD). Albuquerque is an affordable, diverse, and culturally vibrant city with excellent outdoor recreation access.
 
