@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+f# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -29,7 +29,7 @@ author:
   location         : "Albuquerque, NM, USA"
   employer         : "UNM Earth & Planetary Sciences Department"
   uri              : # URL
-  email            : "kmarkovich@unm.com" 
+  email            : "kmarkovich@unm.edu" 
 
   # Academic websites
   academia         : # URL
